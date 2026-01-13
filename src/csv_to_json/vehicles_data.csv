@@ -1,0 +1,5 @@
+vehicle_id,vehicle_name,vehicle_type,battery_percentage
+V101,Tesla Model 3,EV,65
+V102,Nissan Leaf,EV,72
+V103,Hyundai Kona,EV,87
+V104,Shift,EC,59
